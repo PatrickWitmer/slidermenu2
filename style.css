@@ -1,0 +1,61 @@
+/* line 3, style.scss */
+html {
+  height: 100%;
+}
+
+/* line 7, style.scss */
+body {
+  left: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+}
+
+/* line 16, style.scss */
+#container {
+  background-image: url(http://static.pexels.com/wp-content/uploads/2015/01/storm-swimming-pool-waves-3927.jpeg);
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* line 26, style.scss */
+nav {
+  left: -285px;
+  height: 100%;
+  position: fixed;
+  width: 285px;
+  background-color: #333333;
+}
+/* line 33, style.scss */
+nav h2 {
+  font-size: .9em;
+  color: white;
+  padding: 10px 0px 0px 20px;
+  cursor: pointer;
+}
+/* line 40, style.scss */
+nav ul {
+  padding: 20px;
+  list-style: none;
+  color: white;
+}
+/* line 45, style.scss */
+nav ul li {
+  padding: 20px;
+}
+/* line 49, style.scss */
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+/* line 58, style.scss */
+.menu-open {
+  cursor: pointer;
+  padding: 20px;
+  color: white;
+}
