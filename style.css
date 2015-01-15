@@ -1,14 +1,19 @@
+<<<<<<< HEAD
 /* line 3, style.scss */
 html {
   height: 100%;
 }
 
 /* line 7, style.scss */
+=======
+/* Initial body */
+>>>>>>> dddda802730c86213eb6ea96fff9cc85b268ef9a
 body {
   left: 0;
   margin: 0;
   overflow: hidden;
   position: relative;
+<<<<<<< HEAD
   height: 100%;
 }
 
@@ -58,4 +63,72 @@ nav ul li a {
   cursor: pointer;
   padding: 20px;
   color: white;
+=======
+
+}
+
+/* Initial menu */
+.menu {
+  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  left: -285px;  /* start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width: 285px;
+}
+
+/* Basic styling */
+
+.jumbotron {
+	background-image: url('http://static.pexels.com/wp-content/uploads/2014/06/black-and-white-dark-forest-637.jpg');
+  height: 100%;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
+
+.menu ul {
+  border-top: 1px solid #636366;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top: 3px;
+}
+
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-close {
+  cursor: pointer;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.icon-menu {
+  color: #000;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-top: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.icon-menu i {
+  margin-right: 5px;
+>>>>>>> dddda802730c86213eb6ea96fff9cc85b268ef9a
 }

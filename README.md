@@ -1,23 +1,16 @@
 # Publication Prototype
 
-TODO: Write a project description
+A prototype for a possible ember app for a online publications.
 
 ## Installation
 
-TODO: Describe the installation process
+Just need compass watching directory for the sass bits.
 
 ## Usage
 
-TODO: Write usage instructions
-
-## History
-
-TODO: Write history
+Educational
 
 ## Credits
 
 Patrick Witmer // codeacademy shout out.
 
-## License
-
-TODO: Write license
