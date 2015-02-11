@@ -1,0 +1,26 @@
+{
+  "name": "slidermenu2-project",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WitmerDesigns/slidermenu2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WitmerDesigns/slidermenu2/issues"
+  },
+  "homepage": "https://github.com/WitmerDesigns/slidermenu2",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "grunt-open": "^0.2.3",
+    "matchdep": "^0.3.0"
+  }
+}
