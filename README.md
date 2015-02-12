@@ -4,6 +4,8 @@ A prototype for a possible ember app for an online publications.
 
 ## Installation
 
+$git clone https://github.com/WitmerDesigns/slidermenu2.git
+
 $npm install
 
 $grunt server
