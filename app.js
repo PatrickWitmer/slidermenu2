@@ -1,6 +1,10 @@
+document.querySelector( "#nav-toggle" ).addEventListener( "click", function() {
+  this.classList.toggle( "active" );
+});
+
 var main = function() {
 
-	$('.menu-open').click(function() {
+	$('#nav-toggle').click(function() {
 		$('nav').animate({
 			left: '0px'
 			}, 200);

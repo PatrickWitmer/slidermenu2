@@ -60,7 +60,7 @@ nav ul li a {
   color: white;
 }
 
-#nav-toggle span { position: absolute; left: 50%; top: 50%; }
+#nav-toggle {position: absolute; margin: 20px; }
 
 #nav-toggle span,
 #nav-toggle span:before,
@@ -71,7 +71,7 @@ nav ul li a {
   width: 35px;
   background: white;
   position: absolute;
-  display: block;
+  display: inline-block;
   content: '';
 }
 #nav-toggle span:before {
