@@ -5,6 +5,7 @@ A prototype for a possible ember app for an online publications.
 ## Installation
 
 $npm install
+
 $grunt server
 
 localhost:9000
